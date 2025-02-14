@@ -9,7 +9,6 @@ This project processes and analyzes **13C NMR** spectra from raw data files. It 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
 - [Usage](#usage)
 
 
@@ -42,42 +41,6 @@ This repository contains a Python-based tool for analyzing **Nuclear Magnetic Re
 - `matplotlib`: For plotting and visualization
 - `scipy`: For peak detection
 - Jupyter Notebooks: For interactive development and analysis
-
----
-
-## ⚙️ Setup
-
-To get started, follow these instructions to set up the project locally:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/NMR-Analysis.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd NMR-Analysis
-    ```
-
-3. Create a virtual environment (optional but recommended):
-    ```bash
-    python -m venv venv
-    ```
-
-4. Activate the virtual environment:
-    - **Windows**:
-      ```bash
-      venv\Scripts\activate
-      ```
-    - **Mac/Linux**:
-      ```bash
-      source venv/bin/activate
-      ```
-
-5. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ---
 
